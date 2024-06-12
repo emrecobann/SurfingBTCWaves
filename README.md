@@ -53,15 +53,11 @@ We employ a variety of models, including:
 
 ## Results
 
-Our results indicate that certain trader types have a significant impact on market trends. The forecasting models show varying degrees of accuracy, with deep learning models generally outperforming traditional time-series models.
+Our results indicate that certain trader types have a promising impact on market trends.  However traditional features such as open, close, high and low prices for prior timesteps still impacts model much more.
 
 ## Conclusion
 
 This study highlights the importance of understanding trader behavior in the cryptocurrency market. By leveraging advanced forecasting techniques, traders can potentially improve their investment strategies and outcomes.
-
-## Usage
-
-To use the models and reproduce the results, follow these steps:
 
 1. Clone the repository:
    ```bash
