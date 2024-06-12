@@ -58,7 +58,3 @@ Our results indicate that certain trader types have a promising impact on market
 ## Conclusion
 
 This study highlights the importance of understanding trader behavior in the cryptocurrency market. By leveraging advanced forecasting techniques, traders can potentially improve their investment strategies and outcomes.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bitcoin-trend-forecasting.git
